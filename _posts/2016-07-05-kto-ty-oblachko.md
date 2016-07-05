@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Расскажу, почему я решилась запустить этот проект, #nshadesofme.'
-datePublished: '2016-07-05T17:28:21.501Z'
-dateModified: '2016-07-05T17:28:12.177Z'
+description: 'Рассказ о том, почему я решилась запустить этот проект, #nshadesofme.'
+datePublished: '2016-07-05T17:29:33.332Z'
+dateModified: '2016-07-05T17:28:54.833Z'
 author:
   - name: ''
     url: ''
@@ -22,7 +22,7 @@ _type: Article
 # [\#][0]nshadesofme
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ea9d5d2-4dd2-4cac-bda8-96fdbb7afcee.jpg)
 
-Расскажу, почему я решилась запустить этот проект, **\#nshadesofme**.
+Рассказ о том, почему я решилась запустить этот проект, **\#nshadesofme**.
 
 И как начинаются все сказки: Once upon a time... Жила-была девочка-мечтательница...
 
