@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7383512
+  lightness: 0.8440861
+  brandStrength: 0.8351254
+  brandColors:
+    - '#000000'
+    - '#303030'
+    - '#626262'
+    - '#B7B7B7'
+    - '#FCFCFC'
+  rhythmicContrast: 0.6129032
+typography_spectrum: 0.5250896
+name: Obla4ko
