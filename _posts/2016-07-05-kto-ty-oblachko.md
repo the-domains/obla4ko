@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Расскажу, почему я решилась запустить этот проект, #nshadesofme.'
-datePublished: '2016-07-05T17:25:26.565Z'
-dateModified: '2016-07-05T17:25:22.819Z'
+datePublished: '2016-07-05T17:28:21.501Z'
+dateModified: '2016-07-05T17:28:12.177Z'
 author:
   - name: ''
     url: ''
