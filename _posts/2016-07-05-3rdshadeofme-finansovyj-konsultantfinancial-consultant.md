@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: '#3rdshadeofme: финансовый консультант/financial consultant '
-datePublished: '2016-07-05T17:12:53.629Z'
-dateModified: '2016-07-05T17:12:41.814Z'
+datePublished: '2016-07-05T17:19:55.099Z'
+dateModified: '2016-07-05T17:14:00.648Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-05-3rdshadeofme-finansovyj-konsultantfinancial-consultant.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: 3rdshadeofme-finansovyj-konsultantfinancial-consultant/index.html
-_type: Article
+_type: WebPage
 
 ---
 **\#3rdshadeofme: финансовый консультант/financial consultant **
