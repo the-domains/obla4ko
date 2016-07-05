@@ -5,12 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Расскажу, почему я решилась запустить этот проект, #nshadesofme.'
-datePublished: '2016-07-05T17:24:12.352Z'
-dateModified: '2016-07-05T17:22:14.824Z'
+datePublished: '2016-07-05T17:25:26.565Z'
+dateModified: '2016-07-05T17:25:22.819Z'
 author:
   - name: ''
     url: ''
-title: 'Кто же ты, Облачко?'
+title: '#nshadesofme'
 sourcePath: _posts/2016-07-05-kto-ty-oblachko.md
 authors: []
 publisher: null
@@ -19,7 +19,7 @@ url: kto-zhe-ty-oblachko/index.html
 _type: Article
 
 ---
-# [Кто же ты, Облачко?][0]
+# [\#][0]nshadesofme
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ea9d5d2-4dd2-4cac-bda8-96fdbb7afcee.jpg)
 
 Расскажу, почему я решилась запустить этот проект, **\#nshadesofme**.
